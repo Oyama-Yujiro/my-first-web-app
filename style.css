@@ -1,0 +1,24 @@
+body {
+    background-color: #f0f8ff; /* 水色背景 */
+    padding: 20px; /*ここが追加部分*/
+}
+h1 {
+    color: #ff4500; /* オレンジ */
+}
+p {
+    color: #333;
+    font-size: 18px;
+    margin-bottom: 1em;
+}
+figure {
+    text-align: center;
+    margin: 20px 0;
+}
+figcaption {
+    font-size: 14px;
+    color: #555;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
